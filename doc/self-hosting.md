@@ -89,7 +89,7 @@ $ docker run shieldsio/shields:next
 ```sh
 # GHCR
 $ docker pull ghcr.io/badges/shields:next
-$ docker pull ghcr.io/badges/shields:next
+$ docker run ghcr.io/badges/shields:next
 ```
 
 Tagged snapshot releases are also available:
